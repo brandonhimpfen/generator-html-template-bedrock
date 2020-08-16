@@ -1,15 +1,15 @@
-# generator-html-template
+# generator-html-template-bedrock
 
-Yeoman generator for HTML Template.
+Yeoman generator for HTML Template Bedrock.
 
 ## Install
 
 ```
-npm install --g generator-html-template
+npm install --g generator-html-template-bedrock
 ```
 
 ## Usage
 
 ```
-yo html-template
+yo html-template-bedrock
 ```
