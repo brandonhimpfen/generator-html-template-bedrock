@@ -1,5 +1,5 @@
 Description:
-    Yeoman generator for HTML Template.
+    Yeoman generator for HTML Template Bedrock.
 
 Example:
-    yo html-template
+    yo html-template-bedrock
